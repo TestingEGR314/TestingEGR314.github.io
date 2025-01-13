@@ -1,8 +1,5 @@
 ---
 title: Team Organization
-tags:
-- tag1
-- tag2
 ---
 
 ## Chater
