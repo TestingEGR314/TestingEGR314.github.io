@@ -2,7 +2,7 @@
 title: Team Organization
 ---
 
-## Chater
+## Charter
 
 Our Team Chater
 
