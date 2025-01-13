@@ -1,8 +1,8 @@
 ---
-title: Appendix A: Team Organation
+title: Appendix A = Team Organation
 ---
 
-## Schedles
+## Schedules
 ;aksndcknv
 
 ## Communication
