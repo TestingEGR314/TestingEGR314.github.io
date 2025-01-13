@@ -7,10 +7,13 @@ tags:
 
 ## Chater
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+Our Team Chater
+
+Why this is.
 
 
 ## Mission Statment
 
 Lorem markdown
+
+Other team organization items can be viewed in the Appendix A.
